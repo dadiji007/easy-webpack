@@ -22,6 +22,6 @@
         bundle，在里面将通过forEach()将createGraph()中集合的数组进行依赖关系的处理，返回一个能够处理所有需要打包的js文件能够运行的环境。
 
 * 使用：
-   > `$ npm i `
-   > `$ node bundler`
-   > `$ node bundle`       
+   > $ npm i 
+   > $ node bundler
+   > $ node bundle
