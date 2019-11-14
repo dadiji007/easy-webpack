@@ -24,4 +24,4 @@
 * 使用：
    > `$ npm i `
    > `$ node bundler`
-   > `$ node bundle`       //hello world!
+   > `$ node bundle`       
